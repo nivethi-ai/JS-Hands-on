@@ -13,23 +13,4 @@
 10. Write a function that checks if a string is a palindrome.
 
 
-#Arrays
-11. Write a program to find the maximum number in an array.
-12. Write a program to find the sum of all elements in an array.
-13. Write a program that sorts an array of numbers.
-14. Write a function to remove duplicate values from an array.
-15. Write a function that finds the second largest number in an array.
 
-#Object
-16. Create an object representing a car and include properties like make, model, and year.
-17. Write a program that adds a new property to an existing object.
-18. Write a function that prints all the keys of an object.
-19. Write a function that merges two objects.
-20. Write a program that converts an array of key-value pairs into an object.
-
-#String
-21. Write a program that counts the number of vowels in a given string.
-22. Write a function to reverse a string.
-23. Write a function that capitalizes the first letter of each word in a string.
-24. Write a program that checks if a string contains a specific substring.
-25. Write a function to remove spaces from a string.
